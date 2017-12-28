@@ -3,6 +3,7 @@
 技术栈:
 
     react + react-navigation + redux + mobox + lodash + ES6
+    
 
 运行项目:
 
